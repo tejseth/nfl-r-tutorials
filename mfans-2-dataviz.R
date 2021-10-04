@@ -8,6 +8,8 @@ library(ggthemes)
 
 # Not to tej: hold command + to zoom in so it's easier to see the code
 
+# https://github.com/tejseth/nfl-r-tutorials/blob/master/mfans-2-dataviz.R
+
 # Loading in the play-by-play data
 future::plan("multisession")
 pbp <- nflfastR::load_pbp(2014:2021)
