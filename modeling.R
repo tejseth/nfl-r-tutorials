@@ -1,6 +1,6 @@
 # Tutorial 1: Introduction to nflfastR: https://www.youtube.com/watch?v=uw6PH1YiCtI&t=155s
 # Tutorial 2: Data Viz With nflfastr: https://www.youtube.com/watch?v=tGaXtAAt6-4&t=255s
-# Tutorial 3 (Today): Basic Modeling with Football Data
+# Tutorial 3 (Today): https://github.com/tejseth/nfl-r-tutorials/blob/master/modeling.R
 
 # Load needed packages
 library(tidyverse)
