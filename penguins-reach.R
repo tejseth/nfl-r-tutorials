@@ -4,6 +4,8 @@
 # install.packages("palmerpenguins")
 # install.packages("gt")
 
+# Go here for more directions on palmer penguins: https://github.com/tejseth/nfl-r-tutorials/blob/master/penguins-reach.R
+
 # Load in the packages
 library(tidyverse)
 library(palmerpenguins)
